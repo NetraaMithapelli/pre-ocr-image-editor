@@ -30,6 +30,11 @@ Thumbs.db
 
 
 
+# Generated/output files
+output/
+input/
+outputs/
+results/
 
 
 
