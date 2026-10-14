@@ -1,4 +1,4 @@
-# OCR Image Preprocessor (No OpenCV)
+# OCR Image Preprocessor 
 
 ## What This Project Is
 
